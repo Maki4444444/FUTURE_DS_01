@@ -69,3 +69,19 @@ To be updated after Power BI dashboard is complete.
 - EDA notebook with documented analysis
 - Power BI dashboard (link to be added)
 - This README
+
+## Dashboard Preview
+![Dashboard](powerbi/ecommerce_dashboard_screenshot.png)
+
+## Key Insights
+- **£8.89M** total revenue generated across 18,532 orders
+- Revenue peaks sharply in **Q4 (Oct–Dec)**, accounting for ~36% of annual revenue
+- **PAPER CRAFT LITTLE BIRDIE** is the top product at £168K revenue
+- **Netherlands and EIRE** are the strongest international markets outside the UK
+- **Thursday** is the highest revenue day; Sunday is the weakest
+
+## Deliverables
+- [x] Cleaned dataset (`data/cleaned/clean_ecommerce.csv`)
+- [x] EDA notebook with documented analysis (`notebooks/`)
+- [x] Power BI dashboard (`powerbi/ecommerce_dashboard.pbix`)
+- [x] Dashboard PDF export (`powerbi/ecommerce_dashboard.pdf`)
